@@ -1,6 +1,6 @@
 {
     "files": {
-        "README.md": "2a42334ed34393662c1c5ac2223f1b163cd663ac4bfca93319b08486b6badb76",
+        "README.md": "fc0fd17eb034a1201b2e8acb6a99293a02c359b252c260ef7168f4304604bd04",
         "config.json": "e55944ac251d2b59fcf2c65612f08d2b28f415df6d0c8347c66b3ed9b316c04d",
         "lib/language-detector/LICENSE": "84912a26f83f364da008f21740f703434e380ed1658a9a00c9f3b8e5b045df36",
         "lib/language-detector/data/lang.json": "a26067df3f9f3f4498132c37cd8fdb5b2621be07b2db9483edc7fde51ca02031",
@@ -10,7 +10,7 @@
         "lib/language-detector/lib/LanguageDetect.js": "8dbc5e218a1990a908d435963d6500b78849b4cd3977c1f837615efdb36ad6bb",
         "lib/language-detector/lib/Parser.js": "492f50f49566effeaa0d37d1078915aba4477d4018c09bda228f7f68b07bec13",
         "lib/language-detector/package.json": "025d2442278dfd6f96c728bfa7824952764320af69b63c7e2ae1d7e7d07d38d6",
-        "module.json": "9656eb81da3eb1ab2c1139a39da006207596e63f5c2a5e61eddace8d4f5736d5",
+        "module.json": "258b4eb48f633c4168f81aa00e204ac8ca06aee4b576a57d52a212e6b54c8164",
         "package.json": "b30377944723354c60a47ba538f7b79dd8c7d3b7f0dede17f1a4d431127f4149",
         "src/index.js": "38d56eda355b56209210af8609a691937773324a2a38bee636b144c1c878e91b",
         "src/normalize.js": "54eb83ca3e15898f72091ba6bac1c8067972a2c03145ff72647de362175d9efa",

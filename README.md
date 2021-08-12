@@ -37,6 +37,7 @@ traduce el texto de chat entrante en otro idioma
 # Créditos
 - Modulo original de TERALOVE
 - Haku por negarse a arreglar esta mierda
+- Modulo reparado y traducido al español por Loliconera
 
 ---
 
