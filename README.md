@@ -35,7 +35,7 @@ traduce el texto de chat entrante en otro idioma
 </details>
 
 # Créditos
-- MOD original de TERALOVE
+- Modulo original de TERALOVE
 - Haku por negarse a arreglar esta mierda
 
 ---
