@@ -1,42 +1,42 @@
 # translate-chat
-translates incoming chat text into another language
+traduce el texto de chat entrante en otro idioma
 
-# Requires Caali's proxy
+# Requiere Caali's proxy
 - https://discord.gg/maqBmJV
 
-## Info
-- Default is translate text into English.
-- Uses Google Translate, so don't expect the translations to be 100% accurate.
-- Use language codes to set ('en' = English, 'es' = Spanish, etc.) [Click here](https://ctrlq.org/code/19899-google-translate-languages) for list of codes.
-- The in-game font may not support characters for all languages.
-- Translations take a second to process so if chat is getting spammed then incoming translated text may be out of order.
+## Información
+- Por defecto traduce el texto al Español.
+- Usa el traductor de Google, así que no espere que las traducciones sean 100% precisas.
+- Use códigos de idioma para establecer ('en' = English, 'es' = Español, etc.) [Clic aquí](https://ctrlq.org/code/19899-google-translate-languages) para la lista de códigos.
+- La fuente en el juego puede no admitir caracteres para todos los idiomas.
+- Las traducciones se toman un segundo para procesar, así que si el chat está spameando, entonces el texto traducido entrante puede estar fuera de servicio.
 
-## Usage
+## Uso
 ### `translate`
-- Toggle off/on
-- Default is on
+- Alternar off/on
+- Predeterminado ON
 
 ### `translate source (language)`
-- sets the source language. Default: auto
+- Establece el idioma de origen. Predeterminado: auto
 
 ### `translate target (language)`
-- sets the target language. Default: en
+- Establece el idioma de destino. Default: es
 
 ### `translate send (language)`
-- Use this to translate outgoing messages into another language.
+- Use esto para traducir mensajes salientes a otro idioma.
 
-## Changelog
+## Cambios
 <details>
 
     1.0
-    - remove completely unresonable dependencies
+    - Eliminar dependencias completamente irrazonables
 
 
 </details>
 
-# Credits
-- Original mod by teralove
-- Haku for refusing to fix this shit
+# Créditos
+- MOD original de TERALOVE
+- Haku por negarse a arreglar esta mierda
 
 ---
 
