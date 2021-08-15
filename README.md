@@ -1,5 +1,5 @@
-# translate-chat
-traduce el texto de chat entrante en otro idioma
+# Traducir-chat
+Traduce el texto de chat entrante en otro idioma
 
 # Requiere Caali's proxy
 - https://discord.gg/maqBmJV
@@ -37,7 +37,7 @@ traduce el texto de chat entrante en otro idioma
 # Créditos
 - Modulo original de TERALOVE
 - Haku por negarse a arreglar esta mierda
-- Modulo reparado y traducido al español por Loliconera
+- Modulo Bifurcado de Pravv -> https://github.com/Pravv/translate-chat
 
 ---
 
