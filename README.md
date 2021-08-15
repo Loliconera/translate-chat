@@ -20,10 +20,10 @@ Traduce el texto de chat entrante en otro idioma
 - Establece el idioma de origen. Predeterminado: auto
 
 ### `translate target (language)`
-- Establece el idioma de destino. Default: es
+- Establece el idioma de destino. Predeterminado: es
 
 ### `translate send (language)`
-- Use esto para traducir mensajes salientes a otro idioma.
+- Use esto para traducir mensajes salientes a otro idioma. Ej. **translate send en** esto traduce todos tus mensajes que escribas en el chat al idioma Ingles.
 
 ## Cambios
 <details>
