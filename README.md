@@ -1,7 +1,7 @@
 # Traducir-chat [Descargar Aqui](https://github.com/Loliconera/translate-chat-spanish/releases)
 
 ## Inportante!
-Necesita tener instalado el siguiente modulo **node-fetch** en la siguiente ruta:
+Necesita tener instalado el siguiente modulo **node-fetch** en la siguiente ruta:   
 `\Menma's TERA\proxy\node_modules\node-fetch`
 
 # Traducir-chat
