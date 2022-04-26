@@ -2,7 +2,7 @@
 
 ## Inportante!
 Necesita tener instalado el siguiente modulo **node-fetch** en la siguiente ruta:   
-`\Menma's TERA\proxy\node_modules\node-fetch`
+`\Menma's TERA\proxy\node_modules\`
 
 # Traducir-chat
 Traduce el texto de chat entrante en otro idioma
