@@ -1,7 +1,6 @@
 {
     "files": {
         "README.md": "7e1d48a73f9aef6e97474850a2e40cfb79dabcb71e9709348489cb90ae1387ea",
-        "config.json": "e55944ac251d2b59fcf2c65612f08d2b28f415df6d0c8347c66b3ed9b316c04d",
         "lib/language-detector/LICENSE": "84912a26f83f364da008f21740f703434e380ed1658a9a00c9f3b8e5b045df36",
         "lib/language-detector/data/lang.json": "a26067df3f9f3f4498132c37cd8fdb5b2621be07b2db9483edc7fde51ca02031",
         "lib/language-detector/data/unicode_blocks.json": "60945d5e293568e0591625a286be98b246893d08dc133c4bba02eeaa4f716ed4",
@@ -10,9 +9,9 @@
         "lib/language-detector/lib/LanguageDetect.js": "8dbc5e218a1990a908d435963d6500b78849b4cd3977c1f837615efdb36ad6bb",
         "lib/language-detector/lib/Parser.js": "492f50f49566effeaa0d37d1078915aba4477d4018c09bda228f7f68b07bec13",
         "lib/language-detector/package.json": "025d2442278dfd6f96c728bfa7824952764320af69b63c7e2ae1d7e7d07d38d6",
-        "module.json": "39940fcd4667f713aaf906b56236736e5d63731aa09b1af6691156b619d57c25",
-        "package.json": "b30377944723354c60a47ba538f7b79dd8c7d3b7f0dede17f1a4d431127f4149",
-        "src/index.js": "0e9fc583602c14353b5ab763f49d09e859fa6221ac10f30418e8ab6c1ec67fb5",
+        "module.json": "c226ae4951412113d05bb18b3a03cb7cde0e577200eb8cf916d6790469ed0d5a",
+        "package.json": "fd161ab1a4915ba68e0252dbabd8d033ab457c205f580cef4f8f7a51c6860450",
+        "src/index.js": "d469771d0b47f53604e6fa382eb90f880830a21f808db68ca0ef0c2cae78dab0",
         "src/normalize.js": "54eb83ca3e15898f72091ba6bac1c8067972a2c03145ff72647de362175d9efa",
         "src/setting_migration.js": "bed7a80f002cca1213be67d4b19e51902cc588ce5ea3d5d00f3945144b5ff8ad",
         "src/translate.js": "f3473d85bc63a55a9590b4f0b549221966496b8027eea05288d26e68c66e4781"
