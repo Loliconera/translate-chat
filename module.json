@@ -2,7 +2,7 @@
     "disableAutoUpdate": false,
     "name": "Traducir-chat",
     "author": "Prav/Loliconera",
-    "version": "v92/v115",
+    "version": "v92/100",
     "description": "Traduce mensajes entrantes y salientes a otro idioma usando Google Translate.",
     "options": {
         "niceName": "Traducir-chat",
