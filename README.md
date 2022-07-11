@@ -1,4 +1,6 @@
-# Traducir-chat [Descargar](https://github.com/Loliconera/translate-chat-spanish/releases)
+<a href="https://github.com/Loliconera/translate-chat-spanish/archive/refs/heads/master.zip" target="_blank"><button><span title="Descargar Traducir Chat"><img src="https://i.imgur.com/v1aL2sG.png"  alt="drawing" width="150" /></button></a>
+
+# Traducir-chat
 
 ## Inportante solo si utilizas el Proxy Menma!
 Necesita tener instalado el siguiente modulo **node-fetch** en la siguiente ruta:   
