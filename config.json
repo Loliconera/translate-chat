@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "data": {
+        "enabled": true,
+        "sourceLang": "auto",
+        "targetLang": "es",
+        "sendMode": false,
+        "sendLang": "en"
+    }
+}
